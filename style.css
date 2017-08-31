@@ -1,0 +1,533 @@
+body{
+    margin: 0px;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+
+}
+
+.snow-menu .img1{
+    width: 1340px;
+    position: absolute;
+}
+.image1{
+    background-image: url("asetss/img/home-7.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1349px;
+    height: 712px;
+    background-position: 50% 50%;
+    position: absolute;
+
+}
+.image-cover{
+    background-color: rgba(12, 12, 12, 0.6);
+    background-size: cover;
+    width: 1349px;
+    height: 712px;
+    background-position: 50% 50%;
+    position: relative;
+
+}
+
+.menu-left a{
+    top: 26px;
+    left: 110px;
+    margin-left: 131px;
+
+}
+
+.menu-right ul{
+    top: -696px;
+    float: right;
+    list-style: none;
+}
+.menu-right li a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+    font-weight: 500;
+}
+.menu-right li{
+    margin-left: 25px;
+    display: inline-block;
+
+}
+.snow-menu1{
+    padding-right: 139px;
+    height: 43px;
+}
+.snow-menu{
+    position: relative;
+    top: -686px;
+    height: 0px;
+}
+.menu-right{
+    position: relative;
+    top: -49px;
+    height: 44px;
+    }
+.note{
+    position: absolute;
+    top: 158px;
+    left: 576px;
+}
+.note p{
+    color: white;
+
+}
+.note .p1{
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: inherit;
+    font-size: 14px;
+    letter-spacing: 2.5px;
+}
+.note2 .p2{
+    font-family: Playfair Display,serif;
+    font-size: 50px;
+    font-weight: 600;
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    top: -58px;
+    right: 229px;
+    color: white;
+}
+.note3 .p3{
+    font-family: Playfair Display,serif;
+    font-size: 50px;
+    font-weight: 300;
+    position: relative;
+    top: 42px;
+    right: 146px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+    font-style: italic;
+}
+.note2{
+    position: absolute;
+    top: 253px;
+    left: 582px;
+}
+.note3{
+    position: absolute;
+    top: 211px;
+    left: 582px;
+}
+.note-end{
+
+}
+.free{
+    position: absolute;
+    height: 56px;
+    width: 189px;
+    text-transform: uppercase;
+    right: 896px;
+    top: 366px;
+    left: 583px;
+    border: 0;
+    background-color: #373a3c;
+    color: white;
+    font-weight: 700;
+}
+.circle{
+    position: absolute;
+    border: solid 1px white;
+    border-radius: 50%;
+    left: 659px;
+    top: 595px;
+    width: 45px;
+    height: 45px;
+}
+.circle-img{
+    background-image: url("asetss/img/next (1)1.png");
+    background-repeat: no-repeat;
+    margin: auto;
+    width: 16px;
+    height: 15px;
+    margin-top: 17px;
+    background-size: contain;
+}
+.circle:hover{
+    border: solid 2px white;
+}
+.agency{
+    height: 359px;
+}
+.agency-p{
+    margin: auto;
+    text-align: center;
+    max-width: 736px;
+    opacity: 0.7;
+}
+.our-agency{
+    text-align: center;
+    margin: auto;
+    width: 857px;
+    margin-top: 99px;
+}
+.agency-h{
+    font-family: -webkit-body;
+    text-transform: capitalize;
+    font-size: 42px;
+}
+.work{
+    height: 220px;
+    background-image: url("asetss/img/bg-pattern.jpg");
+    width: 1349px;
+
+}
+.in-work{
+    margin: auto;
+    height: 168px;
+    width: 1349px;
+    padding-top: 26px;
+}
+.projects{
+    float: left;
+    border: solid 1px black;
+    width: 324px;
+    height: 68px;
+    display: inline-block;
+}
+.in-projects{
+     background-image: url("asetss/img/big-suitcase (2).png") ;
+     background-repeat: no-repeat;
+     background-size: 42px;
+     height: 67px;
+     margin-top: 0px;
+ }
+ .h6{
+     color: white;
+     margin-left: 66px;
+     margin-top: 12px;
+     margin-bottom: 0;
+     position: relative;
+     font-weight: 600;
+     top: -7px;
+
+ }
+ .work-p{
+     font-weight: 600;
+     text-transform: uppercase;
+     color: white;
+     margin-left: 66px;
+     margin-top: 0;
+     position: relative;
+     top: -54px;
+
+ }
+ .li1{
+     float: left;
+     border: solid 1px black;
+     width: 262px;
+     height: 68px;
+     display: inline-block;
+     text-transform: uppercase;
+     color: white;
+
+ }
+ .work-p p{
+     margin-top: 8px;
+ }
+.in-projects1{
+    background-image: url("asetss/img/time.png") ;
+    background-repeat: no-repeat;
+    background-size: 47px;
+    height: 67px;
+    margin-top: 0px;
+}
+.in-projects2{
+    background-image: url("asetss/img/star.png") ;
+    background-repeat: no-repeat;
+    background-size: 42px;
+    height: 67px;
+    margin-top: 0px;
+}
+.in-projects3{
+    background-image: url("asetss/img/heart.png") ;
+    background-repeat: no-repeat;
+    background-size: 42px;
+    height: 67px;
+    margin-top: 0px;
+}
+.in-work ul{
+    margin-left: 122px;
+    margin-top: 49px;
+}
+.best{
+    height: 1348px;
+}
+.best-pproject{
+    margin: auto;
+    height: 1000px;
+    width: 1150px;
+}
+.best-pproject h3{
+    font-family: -webkit-body;
+    text-transform: capitalize;
+    font-size: 42px;
+    text-align: center;
+}
+.best-p1{
+    text-align: center;
+    max-width: 642px;
+    margin: auto;
+    opacity: 0.7;
+    margin-bottom: 53px;
+
+}
+.best-pic img{
+    height: 369px;
+    width: 369px;
+    display: inline-block;
+ }
+.best-pic{
+    display: inline-block;
+
+}
+
+.best-pic img:hover{
+    background-color: rgba(12, 12, 12, 0.6);
+    background-size: cover;
+    width: 369px;
+    height: 369px;
+    background-position: 50% 50%;
+    position: relative;
+}
+.pic{
+    width: 1119px;
+    height: 1185px;
+}
+.job{
+    height: 335px;
+    background-image: url("asetss/img/bg-pattern.jpg");
+    padding-top: 143px;
+
+}
+.job1{
+    width: 1132px;
+    margin: auto;
+    max-width: 751px;
+
+}
+.job1 p{
+    color: white;
+    font-family: Playfair Display,serif;
+    font-size: 28px;
+    text-align: center;
+    font-style: italic;
+}
+.job1 a{
+    text-decoration: none;
+}
+
+.michel a p{
+    color: white;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-style: initial;
+}
+.brand{
+    height: 247px;
+}
+.mark{
+    width: 1138px;
+    margin: auto;
+}
+.best-pic1{
+    display: inline-block;
+
+}
+.best-pic1 img{
+    height: 115px;
+    width: 210px;
+    display: inline-block;
+}
+.blog{
+    height: 726px;
+
+}
+.blog-1{
+    margin: auto;
+    width: 1132px;
+}
+.blog-1 h2{
+    text-align: center;
+    font-size: 42px;
+    text-transform: capitalize ;
+    font-family: -webkit-body;
+}
+.blog-p p{
+    text-align: center;
+    max-width: 642px;
+    margin: auto;
+    opacity: 0.7;
+    padding-bottom: 50px;
+
+}
+.best-pic2{
+    border: solid 1px white;
+    width: 340px;
+    height: 420px;
+    float: left;
+    margin-left: 26px;
+
+}
+.best-pic2 img{
+    width: 340px;
+    height: 220px;
+}
+.best-pic2 h3{
+    font-size: 22px;
+    max-width: 285px;
+    font-family: -webkit-body;
+    margin-left: 18px;
+}
+.best-pic2 p{
+    max-width: 263px;
+    margin-left: 18px;
+    opacity: 0.7;
+}
+.p22{
+    font-size: 13px;
+    text-transform: uppercase;
+
+}.info{margin: auto;
+     width: 1132px;
+     height: 615px;
+ }
+ .p33{
+     margin-bottom: 43px;
+     max-width: 422px;
+     opacity: 0.7;
+ }
+ .info h2{
+     text-transform: capitalize;
+     font-family: -webkit-body;
+     font-size: 40px;
+
+ }
+ .h44{
+     margin-top: 0px;
+     margin-bottom: 0px;
+     width: 68px;
+     float: left;
+ }
+.h45{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 68px;
+    float: left;
+}
+.h46{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 68px;
+    float: left;
+}
+.h47{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 68px;
+    float: left;
+}
+.info-left{
+    float: left;
+    width: 532px;
+    margin-top: 68px;
+}
+.contact{
+    background-color: #f6f6f6;
+}
+.name{
+    width: 271px;
+    height: 39px;
+    margin-top: 114px;
+    border: 0;
+    border-color: white;
+    opacity: 0.5;
+
+}
+.email{
+    margin-top: 114px;
+    margin-left: 28px;
+    width: 271px;
+    height: 39px;
+    border: 0;
+    border-color: white;
+    opacity: 0.5;
+
+}
+.title{
+    width: 579px;
+    height: 39px;
+    margin-top: 33px;
+    border: 0;
+    border-color: white;
+    opacity: 0.5;
+
+}
+.comment{
+    margin-top: 0;
+    width: 579px;
+    height: 151px;
+    border: 0;
+    border-color: white;
+
+}
+.comment-p p{
+    margin-bottom: 0;
+    margin-top: 37px;
+    opacity: 0.5;
+
+}
+.sub{
+    margin-top: 33px;
+    height: 42px;
+    width: 157px;
+    background-color: black;
+    color: white;
+    border: 0;
+    border-color: black;
+}
+.social{
+    height: 135px;
+    background-color: #ebebeb;
+}
+.social1{
+    text-align: center;
+    height: 135px;
+    width: 1132px;
+    margin: auto;
+}
+.s1{
+    list-style: url("asetss/img/twitter.png");
+}
+.s2{
+    list-style: url("asetss/img/facebook-logo.png");
+}
+.s3{
+    list-style: url("asetss/img/dribbble.png");
+}
+.s4{
+    list-style: url("asetss/img/in.png");
+}
+.soci{
+    padding-top: 90px;
+}
+.soci img{
+    margin-left: 7px;
+    opacity: 0.5;
+
+
+}
+
+.end p{
+    margin: 0;
+    opacity: 0.5;
+
+}
+
